@@ -1,10 +1,12 @@
 # 🚀 배포 가이드
 
-## 문제 해결 완료!
+## 배포 URL
+**프로젝트 페이지**: `https://junghaesung79.github.io/CAT_FAMILY/`
 
-### 변경 사항
-1. ✅ `vite.config.ts`의 `base` 경로를 `/CAT_FAMILY/`로 수정
+### 설정 완료
+1. ✅ `vite.config.ts`의 `base` 경로를 `/CAT_FAMILY/`로 설정
 2. ✅ GitHub Actions 워크플로우 생성 (자동 배포)
+3. ✅ 404.html 자동 생성 스크립트 추가
 
 ---
 

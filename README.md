@@ -78,6 +78,14 @@ npm run preview
 npm run lint
 ```
 
+## 🌐 배포
+
+이 프로젝트는 GitHub Pages를 통해 배포됩니다.
+
+**배포 URL**: [https://junghaesung79.github.io/CAT_FAMILY/](https://junghaesung79.github.io/CAT_FAMILY/)
+
+자세한 배포 방법은 [DEPLOY.md](./DEPLOY.md)를 참조하세요.
+
 ## 📁 프로젝트 구조
 
 ```
