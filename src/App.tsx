@@ -10,7 +10,7 @@ import { Button } from "./components/ui/Button";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/CAT_FAMILY">
       <BreedProvider>
         <FavoritesProvider>
           <Routes>
