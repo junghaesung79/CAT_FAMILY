@@ -1,0 +1,3473 @@
+[
+    {
+        "id": "abyssinian",
+        "species": "Cat",
+        "breed_kr": "아비시니안",
+        "breed_en": "Abyssinian",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "영국/에티오피아 연관설",
+            "natural_breed": true
+        },
+        "summary": "틱드 털과 활발한 성격을 가진 단모 품종입니다. 높은 지적 호기심을 보입니다.",
+        "temperament": {
+            "traits": [
+                "매우 활동적임",
+                "지적임",
+                "사교적임"
+            ],
+            "suitability": {
+                "with_children": "놀이를 즐기는 아이와 잘 지냅니다.",
+                "with_pets": "활동적인 반려동물과 잘 지냅니다.",
+                "first_time_owner": "충분한 놀이 시간을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "틱드 패턴의 짧은 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 4.8
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PK 결핍"
+            ],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "PK 유전자 검사와 치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "클라이밍 코스를 제공합니다.",
+                "daily_play": "지능 장난감과 점프 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "somali",
+                "reason": "장모형으로 성향이 유사합니다."
+            },
+            {
+                "id": "bengal",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사회성과 에너지가 유사합니다."
+            },
+            {
+                "id": "devon-rex",
+                "reason": "지적 자극 요구가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "american-curl",
+        "species": "Cat",
+        "breed_kr": "아메리칸 컬",
+        "breed_en": "American Curl",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "미국",
+            "natural_breed": false
+        },
+        "summary": "뒤로 말린 귀가 특징인 사교적인 품종입니다. 단모와 장모가 모두 존재합니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "온화함",
+                "적응력 높음"
+            ],
+            "suitability": {
+                "with_children": "가족과 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 무난합니다.",
+                "first_time_owner": "처음 반려인에게 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·장모",
+            "coat_structure": "부드러운 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "뒤로 말린 귀"
+            ]
+        },
+        "metrics": {
+            "size_class": "중소형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "귀연골 민감"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "귀 상태를 정기적으로 점검합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "상호작용 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "scottish-fold",
+                "reason": "귀 형태 변이가 주 특징입니다."
+            },
+            {
+                "id": "american-shorthair",
+                "reason": "무난한 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "온화한 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "사람 친화적 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "american-shorthair",
+        "species": "Cat",
+        "breed_kr": "아메리칸 쇼트헤어",
+        "breed_en": "American Shorthair",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "미국",
+            "natural_breed": true
+        },
+        "summary": "균형 잡힌 성격과 튼튼한 체형의 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "적응력 높음",
+                "사교적임",
+                "중간 활동성"
+            ],
+            "suitability": {
+                "with_children": "가족과 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 무난합니다.",
+                "first_time_owner": "첫 반려인에게 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "짙고 관리가 쉬운 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.8
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 17
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "정기 치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "일반적인 캣타워로 충분합니다.",
+                "daily_play": "규칙적인 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "british-shorthair",
+                "reason": "균형 잡힌 성향이 유사합니다."
+            },
+            {
+                "id": "russian-blue",
+                "reason": "단모와 조용한 성향이 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "활동성 범주가 겹칩니다."
+            },
+            {
+                "id": "chartreux",
+                "reason": "낙천적이며 차분한 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "balinese",
+        "species": "Cat",
+        "breed_kr": "발리니즈",
+        "breed_en": "Balinese",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국(샴 계통)",
+            "natural_breed": false
+        },
+        "summary": "샴의 장모형으로 사교적이고 우아한 실루엣을 가집니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "지적임",
+                "발성 중간"
+            ],
+            "suitability": {
+                "with_children": "교감을 즐기는 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "놀이와 교감을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "중장모",
+            "coat_structure": "실키하고 길게 흐르는 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "포인트 패턴",
+                "파란 눈"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "치과 문제 경향"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "치과 관리와 규칙적 놀이를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 캣워크를 제공합니다.",
+                "daily_play": "상호작용 놀이를 충분히 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "siamese",
+                "reason": "성향이 매우 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사회성과 활동성이 유사합니다."
+            },
+            {
+                "id": "somali",
+                "reason": "슬림한 장모와 활동성이 유사합니다."
+            },
+            {
+                "id": "turkish-angora",
+                "reason": "우아한 장모와 활동성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "bengal",
+        "species": "Cat",
+        "breed_kr": "벵갈",
+        "breed_en": "Bengal",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "미국",
+            "natural_breed": false
+        },
+        "summary": "야생미 있는 로제팅 무늬와 높은 활동성을 가진 단모 품종입니다. 물놀이를 즐기는 경향을 보입니다.",
+        "temperament": {
+            "traits": [
+                "매우 활동적임",
+                "지적임",
+                "호기심 많음",
+                "운동 요구 높음"
+            ],
+            "suitability": {
+                "with_children": "활동적인 아이와 잘 지냅니다.",
+                "with_pets": "초기 사회화가 중요합니다.",
+                "first_time_owner": "경험이 있는 반려인에게 더 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "윤기 나는 밀도 높은 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "로제팅·마블 패턴"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.5,
+                "max": 7.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "고활동성 스트레스"
+            ],
+            "screenings": [
+                "심장 스크리닝과 환경 풍부화를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "높은 캣타워와 점프 동선을 제공합니다.",
+                "daily_play": "사냥놀이와 클릭커 트레이닝을 진행합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "savannah",
+                "reason": "높은 활동성과 야생적 외모가 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "ocicat",
+                "reason": "스포티한 성향과 스팟 패턴이 유사합니다."
+            },
+            {
+                "id": "egyptian-mau",
+                "reason": "스팟 패턴과 민첩성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "bombay",
+        "species": "Cat",
+        "breed_kr": "봄베이",
+        "breed_en": "Bombay",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "미국(버마×아메쇼)",
+            "natural_breed": false
+        },
+        "summary": "검은 니랏같은 털과 구리색 눈, 사람 지향적 성격을 가진 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "사람 지향적임",
+                "사교적임",
+                "중간 활동성"
+            ],
+            "suitability": {
+                "with_children": "가족과 교감을 즐깁니다.",
+                "with_pets": "다른 반려동물과 잘 지냅니다.",
+                "first_time_owner": "처음 반려인에게 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "광택 있는 블랙 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "치과 문제 경향"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "정기 치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "상호작용 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "burmese",
+                "reason": "혈통과 성향이 유사합니다."
+            },
+            {
+                "id": "american-shorthair",
+                "reason": "균형 잡힌 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분함이 유사합니다."
+            },
+            {
+                "id": "tonkinese",
+                "reason": "사교성과 교감이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "british-shorthair",
+        "species": "Cat",
+        "breed_kr": "브리티시 쇼트헤어",
+        "breed_en": "British Shorthair",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "영국",
+            "natural_breed": true
+        },
+        "summary": "조용하고 낙천적인 성격의 단모 품종입니다. 탄탄한 체형과 짙은 털을 가집니다.",
+        "temperament": {
+            "traits": [
+                "온화함",
+                "차분함",
+                "독립적 애정"
+            ],
+            "suitability": {
+                "with_children": "아이와 무난하게 지냅니다.",
+                "with_pets": "다묘 가정에 적응합니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "짙고 촘촘한 플러시 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "둥근 얼굴과 큰 눈을 가집니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 7.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "비만",
+                "치주 질환"
+            ],
+            "screenings": [
+                "심장 검사와 체중 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧고 규칙적인 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "exotic-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화한 성향이 유사합니다."
+            },
+            {
+                "id": "scottish-fold",
+                "reason": "온화하고 얌전한 성향이 유사합니다."
+            },
+            {
+                "id": "american-shorthair",
+                "reason": "단모와 성격 밸런스가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "burmese",
+        "species": "Cat",
+        "breed_kr": "버미즈",
+        "breed_en": "Burmese",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국/미얀마 혈통",
+            "natural_breed": false
+        },
+        "summary": "근육질 체형과 사람 지향적 성격을 가진 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "사람 지향적임",
+                "사교적임",
+                "중간 활동성"
+            ],
+            "suitability": {
+                "with_children": "가족과 교감을 즐깁니다.",
+                "with_pets": "타 반려동물과 잘 지냅니다.",
+                "first_time_owner": "교감 시간을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "매끈하고 촉감이 좋은 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "GM2 갱글리오시도시스(일부 계통)"
+            ],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "해당 유전자 검사와 치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "상호작용 놀이를 규칙적으로 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "tonkinese",
+                "reason": "사교성과 애정 표현이 유사합니다."
+            },
+            {
+                "id": "siamese",
+                "reason": "사람 중심 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "실내 적응력이 유사합니다."
+            },
+            {
+                "id": "bombay",
+                "reason": "버미즈 계통으로 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "chartreux",
+        "species": "Cat",
+        "breed_kr": "샤르트뢰",
+        "breed_en": "Chartreux",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "프랑스",
+            "natural_breed": true
+        },
+        "summary": "미소 짓는 표정과 울지 않는 성향으로 유명한 차분한 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "차분함",
+                "조용함",
+                "충성심 있음"
+            ],
+            "suitability": {
+                "with_children": "온화한 가정에 적합합니다.",
+                "with_pets": "무난하게 적응합니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "짙은 블루 플러시 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 7.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "비만 경향"
+            ],
+            "screenings": [
+                "체중 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧고 규칙적인 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "british-shorthair",
+                "reason": "플러시 털과 차분함이 유사합니다."
+            },
+            {
+                "id": "russian-blue",
+                "reason": "블루 털과 조용함이 유사합니다."
+            },
+            {
+                "id": "nebelung",
+                "reason": "블루 톤과 온화함이 유사합니다."
+            },
+            {
+                "id": "american-shorthair",
+                "reason": "균형 잡힌 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "cornish-rex",
+        "species": "Cat",
+        "breed_kr": "코니시 렉스",
+        "breed_en": "Cornish Rex",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "영국",
+            "natural_breed": false
+        },
+        "summary": "곱슬 단모와 가벼운 체형, 매우 활동적인 성향을 가진 품종입니다.",
+        "temperament": {
+            "traits": [
+                "매우 활동적임",
+                "사교적임",
+                "장난기 많음"
+            ],
+            "suitability": {
+                "with_children": "활동적인 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "에너지 관리를 할 수 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "웨이브 털과 거의 없는 언더털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중소형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 3.8
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "저체온 민감"
+            ],
+            "screenings": [
+                "보온과 정기 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_note": "부드러운 손질을 권장합니다."
+            },
+            "environment": {
+                "vertical_space": "러닝·점프 동선을 제공합니다.",
+                "daily_play": "상호작용 놀이를 자주 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "devon-rex",
+                "reason": "곱슬 털과 활동성이 유사합니다."
+            },
+            {
+                "id": "sphynx",
+                "reason": "보온 관리 포인트가 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사회성과 에너지가 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활발함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "devon-rex",
+        "species": "Cat",
+        "breed_kr": "데본 렉스",
+        "breed_en": "Devon Rex",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "영국",
+            "natural_breed": false
+        },
+        "summary": "곱슬 털과 큰 귀, 장난기 많은 성격을 가진 중소형 품종입니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "사교적임",
+                "힌트 장난꾸러기"
+            ],
+            "suitability": {
+                "with_children": "놀이를 좋아하는 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "웨이비한 얇은 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중소형",
+            "male_weight_kg": {
+                "min": 2.7,
+                "max": 4.0
+            },
+            "female_weight_kg": {
+                "min": 2.3,
+                "max": 3.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM 경향"
+            ],
+            "other_risks": [
+                "피부 민감"
+            ],
+            "screenings": [
+                "심장·피부 관리를 정기적으로 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_note": "강한 빗질을 피합니다."
+            },
+            "environment": {
+                "vertical_space": "점프와 퍼치 환경을 제공합니다.",
+                "daily_play": "짧고 잦은 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "cornish-rex",
+                "reason": "곱슬 털과 활동성이 유사합니다."
+            },
+            {
+                "id": "sphynx",
+                "reason": "피부 관리 포인트가 일부 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사교성과 에너지가 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "egyptian-mau",
+        "species": "Cat",
+        "breed_kr": "이집션 마우",
+        "breed_en": "Egyptian Mau",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "이집트/미국 계통",
+            "natural_breed": true
+        },
+        "summary": "자연 발생한 스팟 무늬와 뛰어난 민첩성을 가진 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "경계심 있으나 애정 깊음",
+                "충성심 있음"
+            ],
+            "suitability": {
+                "with_children": "활동적인 가정에 적합합니다.",
+                "with_pets": "점진적 합사 시 적응합니다.",
+                "first_time_owner": "운동 요구를 충족하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "스팟이 선명한 짧은 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "스트레스 민감"
+            ],
+            "screenings": [
+                "환경 풍부화와 정기 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 스프린트 공간을 제공합니다.",
+                "daily_play": "사냥놀이와 퍼즐 피더를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "bengal",
+                "reason": "스팟 패턴과 민첩성이 유사합니다."
+            },
+            {
+                "id": "ocicat",
+                "reason": "스포티한 성향이 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "savannah",
+                "reason": "에너지 레벨이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "exotic-shorthair",
+        "species": "Cat",
+        "breed_kr": "엑조틱 쇼트헤어",
+        "breed_en": "Exotic Shorthair",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "미국",
+            "natural_breed": false
+        },
+        "summary": "페르시안과 유사한 외모에 단모 털을 가진 차분한 품종입니다.",
+        "temperament": {
+            "traits": [
+                "차분함",
+                "온화함",
+                "낮은 활동성"
+            ],
+            "suitability": {
+                "with_children": "조용한 가정에 적합합니다.",
+                "with_pets": "차분한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "짧고 촉감 좋은 플러시 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "단두형 특성을 보입니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PKD"
+            ],
+            "other_risks": [
+                "눈물자국",
+                "호흡 민감"
+            ],
+            "screenings": [
+                "PKD 검사와 안과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "낮은 퍼치를 제공합니다.",
+                "daily_play": "짧은 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "persian",
+                "reason": "성향과 외모가 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화한 성향이 유사합니다."
+            },
+            {
+                "id": "himalayan",
+                "reason": "페르시안 계통으로 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "himalayan",
+        "species": "Cat",
+        "breed_kr": "히말라얀",
+        "breed_en": "Himalayan",
+        "aliases": [
+            "Himmie"
+        ],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국/영국(페르시안×샴)",
+            "natural_breed": false
+        },
+        "summary": "페르시안의 체형과 장모에 샴의 포인트 컬러를 가진 차분한 품종입니다.",
+        "temperament": {
+            "traits": [
+                "차분함",
+                "온화함",
+                "낮은 활동성"
+            ],
+            "suitability": {
+                "with_children": "조용한 가정에 적합합니다.",
+                "with_pets": "차분한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "장모 관리가 가능하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "매우 풍성한 이중모와 포인트 패턴을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "단두형 경향이 있습니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PKD"
+            ],
+            "other_risks": [
+                "눈물자국",
+                "호흡 민감"
+            ],
+            "screenings": [
+                "PKD 검사와 정기 안과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 4,
+                "daily_face_cleaning": true
+            },
+            "environment": {
+                "vertical_space": "낮은 퍼치를 제공합니다.",
+                "daily_play": "부드러운 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "persian",
+                "reason": "체형과 성향이 매우 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화한 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "페르시안 계열로 성향이 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "포인트 컬러 계통으로 연관성이 있습니다."
+            }
+        ]
+    },
+    {
+        "id": "japanese-bobtail",
+        "species": "Cat",
+        "breed_kr": "재패니즈 밥테일",
+        "breed_en": "Japanese Bobtail",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "일본",
+            "natural_breed": true
+        },
+        "summary": "짧은 팜프킨 꼬리와 활발한 성격을 가진 단모/장모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "사교적임",
+                "호기심 많음"
+            ],
+            "suitability": {
+                "with_children": "놀이를 즐기는 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·중장모",
+            "coat_structure": "실키한 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "짧은 깃털형 꼬리"
+            ]
+        },
+        "metrics": {
+            "size_class": "중소형",
+            "male_weight_kg": {
+                "min": 2.8,
+                "max": 4.5
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 3.8
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [],
+            "screenings": [
+                "정기 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "캣타워와 점프 동선을 제공합니다.",
+                "daily_play": "상호작용 놀이를 충분히 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "manx",
+                "reason": "짧은 꼬리 특성이 유사합니다."
+            },
+            {
+                "id": "american-bobtail",
+                "reason": "꼬리 형태가 유사합니다."
+            },
+            {
+                "id": "siamese",
+                "reason": "사회성과 발성이 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "활동성과 사회성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "korat",
+        "species": "Cat",
+        "breed_kr": "코랏",
+        "breed_en": "Korat",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "태국",
+            "natural_breed": true
+        },
+        "summary": "은빛 블루 털과 큰 녹색 눈을 가진 태국 토착 단모 품종입니다. 애정이 깊습니다.",
+        "temperament": {
+            "traits": [
+                "애정 깊음",
+                "민감함",
+                "사교적임"
+            ],
+            "suitability": {
+                "with_children": "차분한 가정에 적합합니다.",
+                "with_pets": "조용한 반려동물과 적응합니다.",
+                "first_time_owner": "차분한 교감을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "실키한 블루 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "하트형 얼굴"
+            ]
+        },
+        "metrics": {
+            "size_class": "중소형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "GM1/GM2(일부 계통)"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "유전 검사를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧고 잦은 상호 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "russian-blue",
+                "reason": "블루 털과 조용한 성향이 유사합니다."
+            },
+            {
+                "id": "chartreux",
+                "reason": "차분함이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "온화함이 유사합니다."
+            },
+            {
+                "id": "nebelung",
+                "reason": "블루 톤과 온화함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "laperm",
+        "species": "Cat",
+        "breed_kr": "라펌",
+        "breed_en": "LaPerm",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "미국",
+            "natural_breed": true
+        },
+        "summary": "자연 돌연변이로 생긴 곱슬거리는 털을 가진 사교적 품종입니다. 단모와 장모가 있습니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "호기심 많음",
+                "온화함"
+            ],
+            "suitability": {
+                "with_children": "가족과 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 무난합니다.",
+                "first_time_owner": "처음 반려인에게도 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·중장모",
+            "coat_structure": "가벼운 컬과 물결이 있는 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "피부 건조"
+            ],
+            "screenings": [
+                "피모 상태를 주기적으로 점검합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_note": "컬을 유지하도록 부드럽게 손질합니다."
+            },
+            "environment": {
+                "vertical_space": "퍼치와 은신처를 제공합니다.",
+                "daily_play": "상호작용 놀이를 규칙적으로 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "selkirk-rex",
+                "reason": "곱슬한 털 특성이 유사합니다."
+            },
+            {
+                "id": "devon-rex",
+                "reason": "컬과 활동성이 유사합니다."
+            },
+            {
+                "id": "cornish-rex",
+                "reason": "활동성과 장난기가 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사교성과 교감 욕구가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "maine-coon",
+        "species": "Cat",
+        "breed_kr": "메인쿤",
+        "breed_en": "Maine Coon",
+        "aliases": [
+            "젠틀 자이언트"
+        ],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "미국 메인주",
+            "natural_breed": true
+        },
+        "summary": "대형 체형과 풍성한 꼬리, 우호적 성격을 가진 장모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "온순함",
+                "호기심 많음",
+                "지적임"
+            ],
+            "suitability": {
+                "with_children": "아이와 잘 지냅니다.",
+                "with_pets": "반려동물과의 공존에 능합니다.",
+                "first_time_owner": "관리 지식이 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "거친 겉털과 부드러운 언더털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "사각형 머리와 큰 귀술을 가집니다.",
+            "signature_features": [
+                "큰 체구",
+                "긴 부시 테일",
+                "귀술"
+            ]
+        },
+        "metrics": {
+            "size_class": "대형",
+            "male_weight_kg": {
+                "min": 6.0,
+                "max": 10.0
+            },
+            "female_weight_kg": {
+                "min": 4.0,
+                "max": 7.5
+            },
+            "maturity_age_years": {
+                "min": 3,
+                "max": 5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM",
+                "HIP 이형성"
+            ],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "HCM 유전자/초음파 검사를 시행합니다.",
+                "고관절 평가를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2,
+                "seasonal_increase": true
+            },
+            "environment": {
+                "vertical_space": "튼튼한 대형 캣타워를 제공합니다.",
+                "daily_play": "지능 장난감과 신체 놀이를 병행합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "norwegian-forest-cat",
+                "reason": "대형 장모와 아웃도어 적응력이 유사합니다."
+            },
+            {
+                "id": "siberian",
+                "reason": "튼튼한 체형과 성격이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화하고 인간 친화적입니다."
+            },
+            {
+                "id": "turkish-van",
+                "reason": "활동성과 근력감이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "manx",
+        "species": "Cat",
+        "breed_kr": "맹크스",
+        "breed_en": "Manx",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "맨섬(영국)",
+            "natural_breed": true
+        },
+        "summary": "꼬리가 매우 짧거나 없는 것이 특징인 단모 품종입니다. 민첩하고 충성심이 있습니다.",
+        "temperament": {
+            "traits": [
+                "민첩함",
+                "애정 많음",
+                "관찰력 높음"
+            ],
+            "suitability": {
+                "with_children": "온화한 아이와 잘 지냅니다.",
+                "with_pets": "차분한 반려동물과 적응합니다.",
+                "first_time_owner": "기본 지식이 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "조밀한 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "짧은 꼬리 또는 무미"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "척추·신경 관련 이슈(무미형)"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "수의학적 척추 평가를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "추격 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "japanese-bobtail",
+                "reason": "짧은 꼬리 특성이 유사합니다."
+            },
+            {
+                "id": "american-bobtail",
+                "reason": "꼬리 형태와 성향이 유사합니다."
+            },
+            {
+                "id": "american-shorthair",
+                "reason": "단모와 균형 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "nebelung",
+        "species": "Cat",
+        "breed_kr": "네벨룽",
+        "breed_en": "Nebelung",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA"
+            ],
+            "origin_region": "미국(러시안 블루 계통)",
+            "natural_breed": false
+        },
+        "summary": "러시안 블루의 장모형으로 은빛 블루 털과 온화한 성격을 가집니다.",
+        "temperament": {
+            "traits": [
+                "조용함",
+                "온화함",
+                "선택적 친밀감"
+            ],
+            "suitability": {
+                "with_children": "차분한 가정에 적합합니다.",
+                "with_pets": "조용한 반려동물과 적응합니다.",
+                "first_time_owner": "차분한 환경을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "중장모",
+            "coat_structure": "실키한 블루 세미 롱 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "녹색 눈(성묘)"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "비만 경향"
+            ],
+            "screenings": [
+                "체중과 놀이 루틴을 관리합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧고 잦은 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "russian-blue",
+                "reason": "혈통과 성향이 유사합니다."
+            },
+            {
+                "id": "chartreux",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "온화하고 조용한 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "norwegian-forest-cat",
+        "species": "Cat",
+        "breed_kr": "노르웨이 숲",
+        "breed_en": "Norwegian Forest Cat",
+        "aliases": [
+            "Wegie"
+        ],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "스칸디나비아",
+            "natural_breed": true
+        },
+        "summary": "북유럽에서 자연적으로 형성된 장모 품종입니다. 방수성 이중모와 근육질 체형을 가집니다.",
+        "temperament": {
+            "traits": [
+                "온화함",
+                "침착함",
+                "지적임",
+                "독립적 애정",
+                "활동적임",
+                "클라이밍 선호"
+            ],
+            "suitability": {
+                "with_children": "감시하에 잘 지냅니다.",
+                "with_pets": "점진적 합사 시 적응합니다.",
+                "first_time_owner": "기본 지식이 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "방수성 겉털과 촘촘한 속털로 구성됩니다.",
+            "seasonal_shedding": true,
+            "head_shape": "삼각형 얼굴과 뭉툭한 코를 가집니다.",
+            "signature_features": [
+                "풍성한 목 갈기",
+                "발바닥 긴 털"
+            ]
+        },
+        "metrics": {
+            "size_class": "중대형",
+            "male_weight_kg": {
+                "min": 5.0,
+                "max": 9.0
+            },
+            "female_weight_kg": {
+                "min": 3.5,
+                "max": 6.5
+            },
+            "maturity_age_years": {
+                "min": 3,
+                "max": 5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "비대성 심근증(HCM)",
+                "GSD IV"
+            ],
+            "other_risks": [
+                "관절 문제",
+                "치주 질환"
+            ],
+            "screenings": [
+                "HCM 심장초음파를 정기적으로 시행합니다.",
+                "GSD IV 유전자 검사를 번식 전 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2,
+                "seasonal_increase": true,
+                "bathing_note": "방수성 털에 맞는 샴푸를 사용하며 드물게 목욕합니다."
+            },
+            "environment": {
+                "vertical_space": "튼튼한 캣타워와 벽선반을 제공합니다.",
+                "daily_play": "하루 2회 10–15분 사냥 놀이를 진행합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "maine-coon",
+                "reason": "대형 장모와 활동성이 유사합니다."
+            },
+            {
+                "id": "siberian",
+                "reason": "한랭지 이중모와 체형이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화한 성격이 유사합니다."
+            },
+            {
+                "id": "turkish-angora",
+                "reason": "장모와 활동성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "ocicat",
+        "species": "Cat",
+        "breed_kr": "오시캣",
+        "breed_en": "Ocicat",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국",
+            "natural_breed": false
+        },
+        "summary": "야생 동물 같은 스팟 무늬를 가지지만 완전히 가정묘 성향의 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "활동적임",
+                "훈련 친화적임"
+            ],
+            "suitability": {
+                "with_children": "놀이를 즐기는 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "놀이와 훈련을 제공하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "윤기 나는 짧은 털과 선명한 스팟을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.5
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "비만 경향"
+            ],
+            "screenings": [
+                "체중과 활동량을 관리합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 캣워크를 제공합니다.",
+                "daily_play": "클리커 트레이닝과 사냥 놀이를 진행합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "bengal",
+                "reason": "스포티한 성향과 패턴이 유사합니다."
+            },
+            {
+                "id": "egyptian-mau",
+                "reason": "스팟 패턴과 민첩성이 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "savannah",
+                "reason": "에너지 레벨이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "oriental-shorthair",
+        "species": "Cat",
+        "breed_kr": "오리엔탈 쇼트헤어",
+        "breed_en": "Oriental Shorthair",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "미국/태국 계통",
+            "natural_breed": false
+        },
+        "summary": "샴과 유사한 체형과 높은 사회성을 가진 단모 품종입니다. 다양한 색과 패턴을 가집니다.",
+        "temperament": {
+            "traits": [
+                "매우 사교적임",
+                "지적임",
+                "활동적임",
+                "수다스러움"
+            ],
+            "suitability": {
+                "with_children": "상호작용을 즐기면 잘 지냅니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "충분한 놀이 시간이 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "매끈한 짧은 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "쐐기형 머리와 큰 귀를 가집니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "치과 문제"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 풍부한 장난감을 제공합니다.",
+                "daily_play": "상호작용 놀이를 자주 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "siamese",
+                "reason": "성향과 체형이 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "유사한 성향의 장모형입니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "devon-rex",
+                "reason": "지적 자극 요구가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "persian",
+        "species": "Cat",
+        "breed_kr": "페르시안",
+        "breed_en": "Persian",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "이란/영국 계통",
+            "natural_breed": false
+        },
+        "summary": "풍성한 장모와 낙천적 성격을 가진 대표적 장모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "차분함",
+                "온화함",
+                "낮은 활동성"
+            ],
+            "suitability": {
+                "with_children": "조용한 가정에 적합합니다.",
+                "with_pets": "차분한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "장모 관리가 가능하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "매우 풍성한 이중모를 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "브라키얼 형태(단두형)가 흔합니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "다낭성 신질환(PKD)"
+            ],
+            "other_risks": [
+                "눈물자국",
+                "호흡 곤란(단두형)"
+            ],
+            "screenings": [
+                "PKD 유전자/초음파 검사를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 4,
+                "daily_face_cleaning": true
+            },
+            "environment": {
+                "vertical_space": "낮은 퍼치 위주로 제공합니다.",
+                "daily_play": "부드러운 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "exotic-shorthair",
+                "reason": "페르시안의 단모형으로 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화하고 차분한 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "himalayan",
+                "reason": "포인트 컬러를 가진 페르시안 계통으로 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "ragamuffin",
+        "species": "Cat",
+        "breed_kr": "래가머핀",
+        "breed_en": "Ragamuffin",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "CFA",
+                "ACFA"
+            ],
+            "origin_region": "미국(랙돌 계통)",
+            "natural_breed": false
+        },
+        "summary": "랙돌과 유사한 큰 체형과 매우 온화한 성격을 가진 장모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "매우 온화함",
+                "사람 지향적임",
+                "낮은 활동성"
+            ],
+            "suitability": {
+                "with_children": "아이와 매우 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 잘 지냅니다.",
+                "first_time_owner": "처음 반려인에게도 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "부드럽고 풍성한 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "대형",
+            "male_weight_kg": {
+                "min": 6.0,
+                "max": 9.0
+            },
+            "female_weight_kg": {
+                "min": 4.0,
+                "max": 6.8
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "비만"
+            ],
+            "screenings": [
+                "심장 검사와 체중 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "부드러운 상호작용 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "ragdoll",
+                "reason": "성향과 체형이 매우 유사합니다."
+            },
+            {
+                "id": "persian",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "온화한 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분하고 가족 친화적입니다."
+            }
+        ]
+    },
+    {
+        "id": "ragdoll",
+        "species": "Cat",
+        "breed_kr": "랙돌",
+        "breed_en": "Ragdoll",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국",
+            "natural_breed": false
+        },
+        "summary": "매우 온화하고 순응적인 성격의 대형 장모 품종입니다. 포인트 컬러와 푸른 눈을 가집니다.",
+        "temperament": {
+            "traits": [
+                "매우 온화함",
+                "사람 친화적임",
+                "낮은 활동성"
+            ],
+            "suitability": {
+                "with_children": "아이와 매우 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 잘 지냅니다.",
+                "first_time_owner": "처음 반려인에게도 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "부드러운 세미 롱 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "넓은 머리와 파란 눈을 가집니다.",
+            "signature_features": [
+                "포인트 패턴"
+            ]
+        },
+        "metrics": {
+            "size_class": "대형",
+            "male_weight_kg": {
+                "min": 6.0,
+                "max": 9.0
+            },
+            "female_weight_kg": {
+                "min": 4.0,
+                "max": 6.5
+            },
+            "maturity_age_years": {
+                "min": 3,
+                "max": 4
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "비만"
+            ],
+            "screenings": [
+                "심장 스크리닝과 체중 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧은 놀이로 자극을 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "ragamuffin",
+                "reason": "성격과 외모가 매우 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "persian",
+                "reason": "차분하고 온화한 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "차분한 성향과 온화함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "russian-blue",
+        "species": "Cat",
+        "breed_kr": "러시안 블루",
+        "breed_en": "Russian Blue",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "러시아",
+            "natural_breed": true
+        },
+        "summary": "녹색 눈과 은빛 블루 털을 가진 조용하고 예민한 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "조용함",
+                "예민하지만 애정 많음",
+                "청결 선호"
+            ],
+            "suitability": {
+                "with_children": "조용한 환경에서 적합합니다.",
+                "with_pets": "차분한 반려동물과 적응합니다.",
+                "first_time_owner": "차분한 가정에 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "이중모 느낌의 플러시 블루 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "비만 경향"
+            ],
+            "screenings": [
+                "체중과 놀이 루틴을 관리합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "짧고 잦은 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "chartreux",
+                "reason": "차분하고 조용한 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "플러시 털과 차분함이 유사합니다."
+            },
+            {
+                "id": "korat",
+                "reason": "블루 털과 온화함이 유사합니다."
+            },
+            {
+                "id": "nebelung",
+                "reason": "러시안 블루의 장모형으로 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "savannah",
+        "species": "Cat",
+        "breed_kr": "사바나",
+        "breed_en": "Savannah",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA"
+            ],
+            "origin_region": "미국(서벌 교잡)",
+            "natural_breed": false
+        },
+        "summary": "크고 길쭉한 체형과 스팟 무늬, 뛰어난 점프력을 가진 매우 활동적인 품종입니다.",
+        "temperament": {
+            "traits": [
+                "매우 활동적임",
+                "호기심 많음",
+                "지적임"
+            ],
+            "suitability": {
+                "with_children": "경험 있는 가정에 적합합니다.",
+                "with_pets": "사회화와 환경 관리가 중요합니다.",
+                "first_time_owner": "경험 많은 반려인에게 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "짧고 탄력 있는 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "큰 귀",
+                "긴 다리",
+                "스팟"
+            ]
+        },
+        "metrics": {
+            "size_class": "중대형",
+            "male_weight_kg": {
+                "min": 6.0,
+                "max": 11.0
+            },
+            "female_weight_kg": {
+                "min": 5.0,
+                "max": 8.0
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "스트레스 민감",
+                "높은 운동 요구"
+            ],
+            "screenings": [
+                "환경 풍부화와 행동 평가를 정기적으로 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "아주 높은 캣타워와 넓은 수직 동선을 제공합니다.",
+                "daily_play": "강도 높은 사냥놀이와 트레이닝을 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "bengal",
+                "reason": "에너지와 외모가 유사합니다."
+            },
+            {
+                "id": "ocicat",
+                "reason": "스포티하고 훈련 친화적입니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활동성과 호기심이 유사합니다."
+            },
+            {
+                "id": "egyptian-mau",
+                "reason": "스팟 패턴과 민첩성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "scottish-fold",
+        "species": "Cat",
+        "breed_kr": "스코티시 폴드",
+        "breed_en": "Scottish Fold",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "CFA",
+                "WCF"
+            ],
+            "origin_region": "스코틀랜드",
+            "natural_breed": false
+        },
+        "summary": "접힌 귀가 특징인 단모/장모 품종입니다. 다정하고 조용한 성향을 보입니다.",
+        "temperament": {
+            "traits": [
+                "온화함",
+                "애정 많음",
+                "조용함"
+            ],
+            "suitability": {
+                "with_children": "아이와 잘 지냅니다.",
+                "with_pets": "차분한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "기본 관리로 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·장모",
+            "coat_structure": "부드러운 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "원형 머리와 접힌 귀를 가집니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 11,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "골연골이형성증"
+            ],
+            "other_risks": [
+                "관절 통증"
+            ],
+            "screenings": [
+                "정기 관절 평가와 통증 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "무리 없는 높이의 퍼치를 제공합니다.",
+                "daily_play": "부드러운 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "british-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "조용하고 애정 어린 성향이 유사합니다."
+            },
+            {
+                "id": "scottish-straight",
+                "reason": "유사한 외모와 성향을 가집니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "scottish-straight",
+        "species": "Cat",
+        "breed_kr": "스코티시 스트레이트",
+        "breed_en": "Scottish Straight",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "WCF",
+                "TICA 일부"
+            ],
+            "origin_region": "스코틀랜드",
+            "natural_breed": false
+        },
+        "summary": "폴드와 동일한 혈통이지만 귀가 접히지 않은 형태입니다. 온화하고 조용한 성향을 보입니다.",
+        "temperament": {
+            "traits": [
+                "온화함",
+                "조용함",
+                "애정 많음"
+            ],
+            "suitability": {
+                "with_children": "아이와 무난하게 지냅니다.",
+                "with_pets": "차분한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·장모",
+            "coat_structure": "부드러운 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "직립 귀",
+                "둥근 얼굴"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "폴드 계통 관절 이슈 보 carriers"
+            ],
+            "other_risks": [
+                "관절 경직 가능"
+            ],
+            "screenings": [
+                "정기 관절 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "무리 없는 높이의 퍼치를 제공합니다.",
+                "daily_play": "부드러운 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "scottish-fold",
+                "reason": "혈통과 성향이 유사합니다."
+            },
+            {
+                "id": "british-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "조용하고 애정 어린 성향이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화한 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "selkirk-rex",
+        "species": "Cat",
+        "breed_kr": "셀커크 렉스",
+        "breed_en": "Selkirk Rex",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "미국",
+            "natural_breed": true
+        },
+        "summary": "풍성한 곱슬 털과 온화한 성격을 가진 품종입니다. 단모와 장모가 있습니다.",
+        "temperament": {
+            "traits": [
+                "온화함",
+                "차분함",
+                "사교적임"
+            ],
+            "suitability": {
+                "with_children": "가족과 잘 지냅니다.",
+                "with_pets": "다른 반려동물과 무난합니다.",
+                "first_time_owner": "관리 난도가 낮아 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모·장모",
+            "coat_structure": "풍성한 컬과 부드러운 촉감을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 4.0,
+                "max": 6.0
+            },
+            "female_weight_kg": {
+                "min": 3.0,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PKD(일부 계통)"
+            ],
+            "other_risks": [
+                "헤어볼"
+            ],
+            "screenings": [
+                "유전 검사와 정기 그루밍을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2,
+                "bathing_note": "컬 유지에 맞는 제품을 사용합니다."
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "부드러운 놀이를 규칙적으로 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "laperm",
+                "reason": "곱슬한 털과 온화함이 유사합니다."
+            },
+            {
+                "id": "persian",
+                "reason": "부드러운 성향이 유사합니다."
+            },
+            {
+                "id": "exotic-shorthair",
+                "reason": "차분한 성향이 유사합니다."
+            },
+            {
+                "id": "devon-rex",
+                "reason": "컬 특성이 일부 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "siamese",
+        "species": "Cat",
+        "breed_kr": "샴",
+        "breed_en": "Siamese",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "태국",
+            "natural_breed": true
+        },
+        "summary": "고음의 울음과 높은 사회성을 가진 단모 품종입니다. 포인트 무늬와 날렵한 체형을 가집니다.",
+        "temperament": {
+            "traits": [
+                "매우 사교적임",
+                "지적임",
+                "애정 표현이 적극적임",
+                "수다스러움"
+            ],
+            "suitability": {
+                "with_children": "상호작용을 즐기면 잘 지냅니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "충분한 교감 시간이 있으면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "매끄러운 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "쐐기형 머리와 큰 귀를 가집니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "치과 문제",
+                "호흡기 민감"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "치과 관리와 정기 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 인터랙션 공간을 제공합니다.",
+                "daily_play": "지능 놀이와 교감을 충분히 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "oriental-shorthair",
+                "reason": "활동성과 사회성이 매우 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "샴의 장모형으로 유사합니다."
+            },
+            {
+                "id": "tonkinese",
+                "reason": "사교성과 애정 표현이 유사합니다."
+            },
+            {
+                "id": "abyssinian",
+                "reason": "활발함과 호기심이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "siberian",
+        "species": "Cat",
+        "breed_kr": "시베리안",
+        "breed_en": "Siberian",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "러시아",
+            "natural_breed": true
+        },
+        "summary": "러시아 토착 대형 장모 품종입니다. 활발하고 사교적이며 이중모를 가집니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "활동적임",
+                "애정 많음",
+                "적응력 높음"
+            ],
+            "suitability": {
+                "with_children": "아이와 잘 지냅니다.",
+                "with_pets": "다묘 가정에 잘 적응합니다.",
+                "first_time_owner": "친화적 성격으로 무난합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "장모",
+            "coat_structure": "방한성 이중모를 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "둥근 머리와 풍성한 러프를 가집니다."
+        },
+        "metrics": {
+            "size_class": "중대형",
+            "male_weight_kg": {
+                "min": 5.0,
+                "max": 9.0
+            },
+            "female_weight_kg": {
+                "min": 3.5,
+                "max": 6.0
+            },
+            "maturity_age_years": {
+                "min": 3,
+                "max": 5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "정기 심장 스크리닝을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2,
+                "seasonal_increase": true
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치를 제공합니다.",
+                "daily_play": "추격 놀이를 매일 진행합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "norwegian-forest-cat",
+                "reason": "이중모와 활동성이 유사합니다."
+            },
+            {
+                "id": "maine-coon",
+                "reason": "대형 체형과 사교성이 유사합니다."
+            },
+            {
+                "id": "ragdoll",
+                "reason": "온화함이 유사합니다."
+            },
+            {
+                "id": "turkish-angora",
+                "reason": "장모와 활발함이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "singapura",
+        "species": "Cat",
+        "breed_kr": "싱가푸라",
+        "breed_en": "Singapura",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "싱가포르/미국 계통",
+            "natural_breed": false
+        },
+        "summary": "소형 체구와 큰 눈, 세피아 어글티 털을 가진 애정 많은 단모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "애정 많음",
+                "활동적임"
+            ],
+            "suitability": {
+                "with_children": "가족과 교감을 즐깁니다.",
+                "with_pets": "다른 반려동물과 잘 지냅니다.",
+                "first_time_owner": "처음 반려인에게도 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "세피아 톤의 틱드 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "큰 눈",
+                "소형 체구"
+            ]
+        },
+        "metrics": {
+            "size_class": "소형",
+            "male_weight_kg": {
+                "min": 2.5,
+                "max": 3.2
+            },
+            "female_weight_kg": {
+                "min": 2.0,
+                "max": 2.7
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PRA 일부 보고"
+            ],
+            "other_risks": [
+                "저체온 민감"
+            ],
+            "screenings": [
+                "안과 검사와 보온 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "소형 체구에 맞는 퍼치를 제공합니다.",
+                "daily_play": "짧고 잦은 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "abyssinian",
+                "reason": "틱드 털과 활동성이 유사합니다."
+            },
+            {
+                "id": "burmese",
+                "reason": "사람 지향적 성향이 유사합니다."
+            },
+            {
+                "id": "tonkinese",
+                "reason": "사교성과 교감 욕구가 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사회성과 에너지가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "somali",
+        "species": "Cat",
+        "breed_kr": "소말리",
+        "breed_en": "Somali",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "영국/미국",
+            "natural_breed": false
+        },
+        "summary": "아비시니안의 장모형으로 우아한 꼬리와 활동적인 성향을 가집니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "사교적임",
+                "호기심 많음"
+            ],
+            "suitability": {
+                "with_children": "놀이에 적극적이면 잘 지냅니다.",
+                "with_pets": "활발한 반려동물과 잘 지냅니다.",
+                "first_time_owner": "장모 관리가 가능하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "중장모",
+            "coat_structure": "부드럽고 풍성한 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.0,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "PK 결핍"
+            ],
+            "other_risks": [
+                "헤어볼"
+            ],
+            "screenings": [
+                "PK 검사와 그루밍 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "캣타워와 터널을 제공합니다.",
+                "daily_play": "추격·점프 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "abyssinian",
+                "reason": "성향과 체형이 유사합니다."
+            },
+            {
+                "id": "turkish-angora",
+                "reason": "우아한 장모와 활동성이 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "슬림한 장모와 사회성이 유사합니다."
+            },
+            {
+                "id": "bengal",
+                "reason": "활동성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "sphynx",
+        "species": "Cat",
+        "breed_kr": "스핑크스",
+        "breed_en": "Sphynx",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "캐나다",
+            "natural_breed": false
+        },
+        "summary": "무모에 가까운 피부와 높은 사회성을 가진 품종입니다. 체온 유지와 피부 관리가 중요합니다.",
+        "temperament": {
+            "traits": [
+                "매우 사교적임",
+                "사람 지향적임",
+                "활동적임"
+            ],
+            "suitability": {
+                "with_children": "교감을 즐기는 가정에 적합합니다.",
+                "with_pets": "다른 반려동물과 잘 지냅니다.",
+                "first_time_owner": "피부 관리가 가능하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "무모",
+            "coat_structure": "미세한 융모 수준의 피부를 가집니다.",
+            "seasonal_shedding": false,
+            "signature_features": [
+                "주름진 피부",
+                "큰 귀"
+            ]
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.7,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 10,
+                "max": 15
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "HCM"
+            ],
+            "other_risks": [
+                "피부염",
+                "체온 저하"
+            ],
+            "screenings": [
+                "심장 스크리닝과 정기 목욕·보습 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "bathing_per_week": 1,
+                "skin_moisturizing": true
+            },
+            "environment": {
+                "temperature_note": "쾌적한 실내 온도를 유지합니다.",
+                "daily_play": "따뜻한 장소와 상호 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "devon-rex",
+                "reason": "피부·털 관리 요구가 유사합니다."
+            },
+            {
+                "id": "cornish-rex",
+                "reason": "활동성과 독특한 털이 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사교성과 교감 욕구가 유사합니다."
+            },
+            {
+                "id": "bambino",
+                "reason": "무모 계통으로 관리 포인트가 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "tonkinese",
+        "species": "Cat",
+        "breed_kr": "통키니즈",
+        "breed_en": "Tonkinese",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA"
+            ],
+            "origin_region": "캐나다/미국",
+            "natural_breed": false
+        },
+        "summary": "샴과 버미즈의 특성을 조합한 사교적 단모 품종입니다. 중간 활동성과 교감을 보입니다.",
+        "temperament": {
+            "traits": [
+                "사교적임",
+                "애정 많음",
+                "발성 중간"
+            ],
+            "suitability": {
+                "with_children": "교감이 많은 가정에 적합합니다.",
+                "with_pets": "사회성이 좋아 적응합니다.",
+                "first_time_owner": "처음 반려인에게도 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "단모",
+            "coat_structure": "부드럽고 관리가 쉬운 털을 가집니다.",
+            "seasonal_shedding": true
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "female_weight_kg": {
+                "min": 2.8,
+                "max": 4.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "치과 문제 경향"
+            ],
+            "other_risks": [],
+            "screenings": [
+                "치과 검진을 정기적으로 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 1
+            },
+            "environment": {
+                "vertical_space": "중간 높이 퍼치를 제공합니다.",
+                "daily_play": "상호작용 놀이를 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "siamese",
+                "reason": "사교성과 교감 욕구가 유사합니다."
+            },
+            {
+                "id": "burmese",
+                "reason": "계통과 성향이 유사합니다."
+            },
+            {
+                "id": "oriental-shorthair",
+                "reason": "사회성이 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "사교적이고 애정 많은 성향이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "turkish-angora",
+        "species": "Cat",
+        "breed_kr": "터키시 앙고라",
+        "breed_en": "Turkish Angora",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe",
+                "WCF"
+            ],
+            "origin_region": "튀르키예",
+            "natural_breed": true
+        },
+        "summary": "우아한 체형과 부드러운 세미 롱 털을 가진 활동적이고 영리한 품종입니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "지적임",
+                "사람 지향적임"
+            ],
+            "suitability": {
+                "with_children": "활동적인 아이와 잘 지냅니다.",
+                "with_pets": "적절한 도입 시 적응합니다.",
+                "first_time_owner": "놀이 요구를 충족하면 적합합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "중장모",
+            "coat_structure": "실키한 털을 가집니다.",
+            "seasonal_shedding": true,
+            "head_shape": "쐐기형 머리와 큰 귀를 가집니다."
+        },
+        "metrics": {
+            "size_class": "중형",
+            "male_weight_kg": {
+                "min": 3.5,
+                "max": 5.0
+            },
+            "female_weight_kg": {
+                "min": 2.5,
+                "max": 4.0
+            },
+            "maturity_age_years": {
+                "min": 2,
+                "max": 3
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 16
+            }
+        },
+        "health": {
+            "genetic_risks": [
+                "선천성 청각 문제(백색-청안)"
+            ],
+            "other_risks": [
+                "치주 질환"
+            ],
+            "screenings": [
+                "청력 검사와 치과 관리를 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 러닝 플레이를 제공합니다.",
+                "daily_play": "상호작용 놀이를 충분히 제공합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "oriental-shorthair",
+                "reason": "활동성과 지적 자극 요구가 유사합니다."
+            },
+            {
+                "id": "siberian",
+                "reason": "활동성과 장모 관리가 유사합니다."
+            },
+            {
+                "id": "norwegian-forest-cat",
+                "reason": "장모와 활동성이 유사합니다."
+            },
+            {
+                "id": "balinese",
+                "reason": "우아한 실루엣과 활동성이 유사합니다."
+            }
+        ]
+    },
+    {
+        "id": "turkish-van",
+        "species": "Cat",
+        "breed_kr": "터키시 반",
+        "breed_en": "Turkish Van",
+        "aliases": [],
+        "status": {
+            "recognized_by": [
+                "TICA",
+                "CFA",
+                "FIFe"
+            ],
+            "origin_region": "튀르키예",
+            "natural_breed": true
+        },
+        "summary": "물놀이를 즐기는 성향과 반 패턴이 특징인 중장모 품종입니다.",
+        "temperament": {
+            "traits": [
+                "활동적임",
+                "독립적 애정",
+                "지적임"
+            ],
+            "suitability": {
+                "with_children": "활동적인 가정에 적합합니다.",
+                "with_pets": "점진적 합사 시 적응합니다.",
+                "first_time_owner": "놀이와 훈련 시간이 필요합니다."
+            }
+        },
+        "appearance": {
+            "coat_length": "중장모",
+            "coat_structure": "방수성 털을 가집니다.",
+            "seasonal_shedding": true,
+            "signature_features": [
+                "반 패턴",
+                "근육질 체형"
+            ]
+        },
+        "metrics": {
+            "size_class": "중대형",
+            "male_weight_kg": {
+                "min": 5.0,
+                "max": 7.0
+            },
+            "female_weight_kg": {
+                "min": 3.5,
+                "max": 5.5
+            },
+            "lifespan_years": {
+                "min": 12,
+                "max": 17
+            }
+        },
+        "health": {
+            "genetic_risks": [],
+            "other_risks": [
+                "관절 스트레스"
+            ],
+            "screenings": [
+                "정기 정형 검진을 시행합니다."
+            ]
+        },
+        "care": {
+            "grooming": {
+                "brushing_per_week": 2
+            },
+            "environment": {
+                "vertical_space": "높은 퍼치와 점프 동선을 제공합니다.",
+                "daily_play": "물놀이 장난감을 포함합니다."
+            }
+        },
+        "similar_breeds": [
+            {
+                "id": "turkish-angora",
+                "reason": "국가·털 특성과 활동성이 유사합니다."
+            },
+            {
+                "id": "maine-coon",
+                "reason": "근육질 체형과 활동성이 유사합니다."
+            },
+            {
+                "id": "siberian",
+                "reason": "중장모와 활동성이 유사합니다."
+            },
+            {
+                "id": "norwegian-forest-cat",
+                "reason": "한랭 적응 털과 체형이 유사합니다."
+            }
+        ]
+    }
+]
